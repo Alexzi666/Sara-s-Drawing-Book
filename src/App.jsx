@@ -26,6 +26,7 @@ function App() {
         <img className='header__img' src={catimg} alt='cat header image'/>
         <h1>Welcome to Sara's Gallary !!! :)</h1>
         <a className='skip__link' href='#main__content'> Skip to Main Content </a>
+        {/* <font color='#ff0000'>S</font><font color='#f2260c'>k</font><font color='#e54b19'>i</font><font color='#d86e26'>p</font> <font color='#bfad3f'>t</font><font color='#b2c74c'>o</font> <font color='#99ed66'>M</font><font color='#8cf872'>a</font><font color='#7ffe7f'>i</font><font color='#72fe8c'>n</font> <font color='#59eca5'>C</font><font color='#4cdcb2'>o</font><font color='#3fc6bf'>n</font><font color='#33accc'>t</font><font color='#268ed8'>e</font><font color='#196ce5'>n</font><font color='#0c49f2'>t</font> */}
       </div>
 
       <div className='header__div'>

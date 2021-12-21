@@ -147,7 +147,7 @@
 }
 
 .header__section h1 {
-  color: black;
+  color: orange;
 
   text-align: center;
 
@@ -213,7 +213,7 @@
 
 .menu__link {
 
-  color:black;
+  color:rgb(240, 157, 171);
 
   font-style: normal;
   font-family: 'PT Sans', sans-serif;
