@@ -245,10 +245,14 @@
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+
+  align-items: baseline;
 }
 
 .footer__statement li{
   position: relative;
+
+  padding-top: .5rem;
 }
 
 .insta__pic{

@@ -50,6 +50,9 @@ function App() {
             Image is from : pixabay.com | License : Unknown
           </li>
           <li>Follow Sara on Instagram &nbsp; &nbsp; &nbsp; &#10158; <a className='insta__link' onClick={() => navigate()} href='https://www.instagram.com/saraaaawang/'><img className='insta__pic' src={insta} alt='instagram logo'/></a></li>
+          <li cl>
+            Developed by Bingjie(Alex) Zi
+          </li>
         </ul>
       </div>
     </div>
